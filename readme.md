@@ -19,7 +19,7 @@ Include a link to the live demo if hosted (e.g., GitHub Pages, Netlify, etc.).
 ## How to Use
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/contact-us-qr.git
+    https://github.com/Panha32/qr-code-generator-by-js.git
     ```
 2. Open the `index.html` file in your browser.
 3. Scan the QR codes to test the functionality.
