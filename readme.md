@@ -13,7 +13,7 @@ A "Contact Us" webpage that enables users to quickly and conveniently connect vi
 - **QRCode.js**: A lightweight JavaScript library for creating QR codes.
 
 ## Demo
-Check out the live demo of the project here: [Live Demo on Netlify](https://your-site-name.netlify.app).
+Check out the live demo of the project here: [Live Demo on Netlify](https://qrcontactus.netlify.app/).
 
 
 ## How to Use
