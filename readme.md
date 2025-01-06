@@ -1,6 +1,6 @@
 # Contact Us Page with QR Codes
 
-A "Contact Us" webpage that enables users to quickly and conveniently connect via email, phone, or view location using QR codes. Built with HTML, CSS, and JavaScript, it leverages the [QRCode.js](https://davidshimjs.github.io/qrcodejs/) library to dynamically generate QR codes.
+An responsive "Contact Us" webpage that enables users to quickly and conveniently connect via email, phone, or view location using QR codes. Built with HTML, CSS, and JavaScript, it leverages the [QRCode.js](https://davidshimjs.github.io/qrcodejs/) library to dynamically generate QR codes.
 
 ## Features
 - **Email QR Code:** Scans to open the default email app with a pre-filled recipient.
